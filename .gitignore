@@ -1,1 +1,5 @@
-vendor/
+/vendor/
+/web/core/
+/web/sites/default/files/
+/web/sites/*/settings.local.php
+/web/sites/*/services.yml
